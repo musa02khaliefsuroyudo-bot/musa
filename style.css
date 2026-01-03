@@ -1,0 +1,25 @@
+body
+{font-weight: 100;
+    color: aliceblue;
+}
+h1{color: aqua;font-size: small;
+text-align: center;}
+th{
+    color: brown;
+}
+h2{
+    color: brown;
+}
+input{
+    color: rgb(0, 0, 0);
+}
+
+label{
+    color: rgb(100, 0, 5);
+}
+   
+img{clip-path: circle();
+    text-align: center
+    
+
+}
